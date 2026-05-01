@@ -33,7 +33,7 @@ This lab is designed to build foundational skills required for an entry-level IT
 - <b>Configure hostname</b>
 - <b>Assign Static IP Address</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 <h3>2. Install Active Directory Domain Servicesr</h3>
