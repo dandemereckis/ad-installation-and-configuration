@@ -39,7 +39,7 @@
 <br />
 <h3>3. Promote to Domain Controller</h3>
 
-- <b>Create new forest (DanLab.local</b>
+- <b>Create new forest (DanLab.local)</b>
 - <b>Configure Directory Services Restore Mode (DSRM) password</b>
 - <b>Restart server</b>
 <br>
