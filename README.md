@@ -17,7 +17,7 @@
 - <b>Hypervisor: VirtualBox</b> 
 - <b>Server OS: Windows Server 2025</b>
 - <b>Client OS: Windows 11 (Helpdesk and Client)</b>
-- <b>Domain Name: DanLab.local</b>
+- <b>Domain Name: DANLAB.local</b>
 
 
 <h2>Installation & Configuration Steps</h2>
@@ -39,7 +39,7 @@
 <br />
 <h3>3. Promote to Domain Controller</h3>
 
-- <b>Create new forest (DanLab.local)</b>
+- <b>Create new forest (DANLAB.local)</b>
 - <b>Configure Directory Services Restore Mode (DSRM) password</b>
 - <b>Restart server</b>
 <br>
