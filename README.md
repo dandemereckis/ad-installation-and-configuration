@@ -28,7 +28,7 @@
 - <b>Configure hostname</b>
 - <b>Assign static IP address</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sbe6eCj.png" height="80%" width="80%" alt="Server Manager"/>
 <br>
 <h3>2. Install Active Directory Domain Servicesr</h3>
 
