@@ -1,10 +1,8 @@
 <h1>Active Directory - Installation & Initial Configuration</h1>
 
 <h2>Overview</h2>
-This project demonstrates the installation and initial configuration of an Active Directory environment in a virtual lab. The goal is to simulate a basic enterprise network setup, including domain services, user management, and domain-joined endpoints.
-<br>
-Active Directory is used in most enterprise environments to manage users, devices, and security policies centrally.
-<br>
+<p>This project demonstrates the installation and initial configuration of an Active Directory environment in a virtual lab. The goal is to simulate a basic enterprise network setup, including domain services, user management, and domain-joined endpoints.</p>
+<p>Active Directory is used in most enterprise environments to manage users, devices, and security policies centrally.</p>
 <h2>Objectives</h2>
 
 - <b>Install and configure Active Directory Domain Services (AD DS)</b>
@@ -14,8 +12,6 @@ Active Directory is used in most enterprise environments to manage users, device
 - <b>Create and manage user accounts</b>
 - <b>Join client machines to the domain</b>
 - <b>Validate domain communication</b>
-<br />
-
 <h2>Lab Environment</h2>
 
 - <b>Hypervisor: VirtualBox</b> 
@@ -33,7 +29,7 @@ Active Directory is used in most enterprise environments to manage users, device
 - <b>Assign static IP address</b>
 <br>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br>
 <h3>2. Install Active Directory Domain Servicesr</h3>
 
 - <b>Add AD DS role via Server Manager</b>
@@ -93,7 +89,6 @@ Active Directory is used in most enterprise environments to manage users, device
 - <b>Basic network configuration (IP, DNS)</b>
 - <b>User and computer management</b>
 - <b>Domain environment validation</b>
-<br>
 <h2>Next Steps</h2>
 
 <p>The next phase of this project will focus on real-world help desk tasks and troubleshooting, including:</p>
@@ -103,6 +98,5 @@ Active Directory is used in most enterprise environments to manage users, device
 - <b>Group membership changes</b>
 - <b>Remote support</b>
 - <b>Basic troubleshooting scenarios</b>
-<br>
 <h2>Notes</h2>
 <p>This lab is part of a larger effort to simulate real-world IT support scenarios and develop hands-on experience for IT support roles</p>
