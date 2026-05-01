@@ -30,7 +30,7 @@
 <br>
 <img src="https://i.imgur.com/sbe6eCj.png" height="80%" width="80%" alt="Server Manager"/>
 <br>
-<h3>2. Install Active Directory Domain Servicesr</h3>
+<h3>2. Install Active Directory Domain Services</h3>
 
 - <b>Add AD DS role via Server Manager</b>
 - <b>Include required features</b>
