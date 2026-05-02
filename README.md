@@ -30,12 +30,13 @@
 <br>
 <img src="https://i.imgur.com/sbe6eCj.png" height="80%" width="80%" alt="Server Manager"/>
 <br>
+<img src="https://i.imgur.com/15Xb28j.png" height="80%" width="80%" alt="Static IP Settings"/>
 <h3>2. Install Active Directory Domain Services</h3>
 
 - <b>Add AD DS role via Server Manager</b>
 - <b>Include required features</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FVhP9kx.png" height="80%" width="80%" alt="AD DS Installation"/>
 <br />
 <h3>3. Promote to Domain Controller</h3>
 
@@ -43,14 +44,14 @@
 - <b>Configure Directory Services Restore Mode (DSRM) password</b>
 - <b>Restart server</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DwurW2r.png" height="80%" width="80%" alt="Adding new forest"/>
 <br />
 <h3>4. Verify AD Installation</h3>
 
 - <b>Open Active Directory Users and Computers</b>
 - <b>Confirm domain structure</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zAZh3EO.png" height="80%" width="80%" alt="Users and Computers Structure"/>
 <br />
 <h3>5. Configure Organization Units (OUs)</h3>
 
@@ -58,14 +59,14 @@
 - <b>HR</b>
 - <b>Sales</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V4uW8Yq.png" height="80%" width="80%" alt="Organizational Units"/>
 <br />
 <h3>6. Create User Accounts</h3>
 
 - <b>Create Help Desk Admin account</b>
 - <b>Create standard test user account</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GKjeLd4.png" height="80%" width="80%" alt="Users Created"/>
 <br />
 <h3>7. Join Client Machines to Domain</h3>
 
@@ -73,7 +74,7 @@
 - <b>Join machines to domain (DanLab.local)</b>
 - <b>Restart and log in with domain credentials</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EaVzpH4.png" height="80%" width="80%" alt="Joined to Domain"/>
 <br />
 <h3>8. Validate Environment</h3>
 
@@ -81,8 +82,9 @@
 - <b>Confirm users can authenticate</b>
 - <b>Verify machines appear in Active Directory</b>
 <br>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TALMeWs.png" height="80%" width="80%" alt="User Login"/>
 <br />
+<img src="https://i.imgur.com/rDA4cyg.png" height="80%" width="80%" alt="Computers Present"/>
 <h2>Skills Demonstrated</h2>
 
 - <b>Active Directory setup and configuration</b> 
