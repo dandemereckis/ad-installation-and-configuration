@@ -59,7 +59,7 @@
 - <b>HR</b>
 - <b>Sales</b>
 <br>
-<img src="https://i.imgur.com/V4uW8Yq.png" height="80%" width="80%" alt="Organizational Units"/>
+<img src="https://i.imgur.com/rQ7k4ZT.png" height="80%" width="80%" alt="Organizational Units"/>
 <br />
 <h3>6. Create User Accounts</h3>
 
