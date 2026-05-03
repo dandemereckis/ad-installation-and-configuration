@@ -12,6 +12,8 @@
 - <b>Create and manage user accounts</b>
 - <b>Join client machines to the domain</b>
 - <b>Validate domain communication</b>
+- <b>Create and apply basic Group Policy Objects (GPOs)</b>
+- <b>Demonstrate OU-based policy targeting</b>
 <h2>Lab Environment</h2>
 
 - <b>Hypervisor: VirtualBox</b> 
@@ -85,12 +87,32 @@
 <img src="https://i.imgur.com/TALMeWs.png" height="80%" width="80%" alt="User Login"/>
 <br />
 <img src="https://i.imgur.com/rDA4cyg.png" height="80%" width="80%" alt="Computers Present"/>
+<br />
+<h3>9. Configure Group Policy (GPO) for User Restrictions</h3>
+
+- <b>Create a Group Policy Object to manage user restrictions</b>
+- <b>Configure policy to restrict Control Panel access</b>
+- <b>Link GPO to specific Organizational Units (HR and Sales)</b>
+- <b>Apply and validate policy on domain-joined machines</b>
+<br>
+<img src="https://i.imgur.com/UqAiHB0.png" height="80%" width="80%" alt="Edit GPO"/>
+<br />
+<img src="https://i.imgur.com/7Xvb1rz.png" height="80%" width="80%" alt="Link GPO"/>
+<br />
+<img src="https://i.imgur.com/NDvnBWS.png" height="80%" width="80%" alt="Update Group Policy"/>
+<br />
+<img src="https://i.imgur.com/lwKZoHk.png" height="80%" width="80%" alt="Policy Applied on Client Machine"/>
+<br />
 <h2>Skills Demonstrated</h2>
 
 - <b>Active Directory setup and configuration</b> 
 - <b>Basic network configuration (IP, DNS)</b>
 - <b>User and computer management</b>
 - <b>Domain environment validation</b>
+- <b>Basic Group Policy creation and management</b>
+- <b>Applying user restrictions using GPOs</b>
+- <b>OU-based policy targeting</b>
+- <b>Policy validation on client machines</b>
 <h2>Next Steps</h2>
 
 <p>The next phase of this project will focus on real-world help desk tasks and troubleshooting, including:</p>
