@@ -124,4 +124,4 @@
 - <b>Basic troubleshooting scenarios</b>
 <h2>Notes</h2>
 <p>This lab is part of a larger effort to simulate real-world IT support scenarios and develop hands-on experience for IT support roles</p>
-(https://github.com/dandemereckis/ad-tickets-and-troubleshooting)
+https://github.com/dandemereckis/ad-tickets-and-troubleshooting
