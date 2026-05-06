@@ -18,7 +18,7 @@
 
 - <b>Hypervisor: VirtualBox</b> 
 - <b>Server OS: Windows Server 2025</b>
-- <b>Client OS: Windows 11 (Helpdesk and Client)</b>
+- <b>Client OS: Windows 11 (Help Desk and Client)</b>
 - <b>Domain Name: DanLab.local</b>
 
 
